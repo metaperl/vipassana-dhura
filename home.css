@@ -1,0 +1,185 @@
+* { margin: 0; padding: 0; }
+
+body {
+margin: 0; padding: 0;
+background-color: #E7FFAE;
+background-color: #FFFFCC;
+padding: 30px 0;
+font-family: verdana, arial, sans-serif;
+}
+
+#pagewrap {
+width: 660px;
+margin: 0 auto;
+text-align: center;
+}
+
+#menuwrap {
+margin: 0 auto 15px auto;
+height: 404px;
+text-align: left;
+background-image: url(biglogo6.gif);
+background-repeat: no-repeat;
+background-position: 260px 50%;
+}
+
+img.logo {
+position: absolute;
+left: 240px;
+top: 2px;
+}
+
+table.nav {
+border-collapse: collapse;
+width: 330px;
+}
+
+table.nav td.space {
+height: 24px;
+padding: 0;
+}
+
+table.nav td a {
+display: block;
+font-size: 16px;
+padding: 6px 0;
+text-align: right;
+color: #164710;
+text-decoration: none;
+}
+
+table.nav td a:hover {
+text-decoration: none;
+color: #A67D15;
+}
+
+table.nav td a.a {
+padding-right: 40px;
+}
+
+table.nav td a.b {
+padding-right: 56px;
+}
+
+table.nav td a.c {
+padding-right: 76px;
+}
+
+table.nav td a.d {
+padding-right: 80px;
+}
+
+table.nav td a.e {
+padding-right: 84px;
+}
+
+.copy {
+width: 640px;
+font-size: 14px;
+text-align: justify;
+line-height: 20px;
+margin: 0 auto 10px auto;
+color: #352806;
+}
+
+#state { display: none; }
+
+.copyright {
+font-size: 10px;
+color: #000;
+margin: 20px auto;
+text-align: center;
+border-top: 2px solid #ABBB6C;
+padding-top: 4px;
+width: 640px;
+line-height: 15px;
+}
+
+.copyright a {
+font-weight: bold;
+text-decoration: none;
+color: gray;
+}
+
+.copyright a:hover {
+text-decoration: underline;
+}
+
+.copyright a.special {
+color: #993D18;
+font-weight: normal;
+text-decoration: underline;
+}
+
+.copyright a.special:hover {
+text-decoration: none;
+}
+
+.copyright p {
+padding-top: 4px;
+}
+
+img.inset {
+float: left;
+margin: 4px 10px 0 0;
+border: 1px solid #E7D286;
+}
+
+img.db { margin: 0; border: none; }
+
+table.flags {
+border-collapse: collapse;
+width: auto;
+margin: 0 auto 20px auto;
+}
+
+table.flags td {
+padding: 4px 5px 3px 5px;
+}
+
+table.flags td.x a {
+color: #B6AFA3;
+font-weight: normal;
+cursor: default;
+}
+
+table.flags td.thai {
+font-family: tahoma, geneva;
+padding: 4px 5px 3px 5px;
+}
+
+table.flags td.china {
+font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+padding: 4px 0 3px 0;
+}
+
+table.flags td.china a {
+padding: 4px 5px 3px 5px;
+}
+
+table.flags td.thai a {
+font-weight: bold;
+cursor: default;
+}
+
+table.flags a {
+text-decoration: none;
+color: #013501;
+font-weight: bold;
+}
+
+table.flags a:hover {
+color: #A67D15;
+}
+
+table.flags td.space {
+width: 10px;
+padding: 0;
+}
+
+table.flags img {
+border: none;
+padding-bottom: 4px;
+}
+
+

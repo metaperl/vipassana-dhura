@@ -1,0 +1,8 @@
+* Editing Notes
+** [[file:~/Dropbox/Metaphysics/Buddhism/www.vipassanadhura.com/howto.htm][How to Meditate]]
+*** To watch our complete 50-minute meditation video, please click here.
+*** [[file:~/Dropbox/Metaphysics/Buddhism/www.vipassanadhura.com/howto.htm#e][Exercise 1]]
+- Option 1 :: link to YouTube video and link to local video file
+- Option 2 :: use html5 video player tag
+must convert wmv to mp4
+- Option 3 :: find js plugin to play any video?
