@@ -19,7 +19,7 @@ she ran the Dhamma Friend training program.
 The web presence of the society is handled by these people:
 * Bill Flanagan runs [the original site](http://www.vipassanadhura.com/)
 * Terrence Brannon operates a [derivative of the site](https://metaperl.github.io/vipassana-dhura)
-whose [contents are completely open-source]. My version of the site is done
+whose [contents are completely open-source](https://github.com/metaperl/vipassana-dhura). My version of the site is done
 for no pay. Bill, however, accepted cookies mailed from 
 Margarita (Cynthia's mother) as payment
 for his version of the website :)
