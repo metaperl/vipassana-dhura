@@ -12,7 +12,7 @@ sites.
 The Vipassana Dhura Meditation Society was primarily run by 
 [the late Cynthia Thatcher](http://www.reed.edu/reed_magazine/in-memoriam/obituaries/june2014/cynthia-thatcher-1988.html) 
 who authored the book 
-["Just Seeing"](PDF/bp505s_Thatcher_Just-Seeing.pdf). I was pleased to
+["Just Seeing"](https://metaperl.github.io/vipassana-dhura/PDF/bp505s_Thatcher_Just-Seeing.pdf). I was pleased to
 [work with her](http://static.livingcosmos.org/metaphysics/dhamma.txt) when
 she ran the Dhamma Friend training program.
 
